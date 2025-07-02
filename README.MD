@@ -86,17 +86,6 @@ week 12 js weather/
 
 ---
 
-## Possible Improvements
-
-- Add more weather details (humidity, sunrise/sunset, UV index, etc.)
-- Support for multiple languages and RTL layouts.
-- Enhanced error handling and user feedback.
-- Add unit tests for JavaScript logic.
-- Make the app a Progressive Web App (PWA) for offline support.
-- Allow users to save favorite locations.
-
----
-
 ## License
 
 For educational and personal use only.  
